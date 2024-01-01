@@ -19,7 +19,7 @@ jkuwalek = {
             },
             "upmedic.io": {
                 "role": "Ontology Developer Intern",
-                "working_since": "January 2023 - Now"
+                "working_since": "January 2024 - Now"
             }
         }
     },
