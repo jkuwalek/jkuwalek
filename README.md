@@ -15,11 +15,11 @@ jkuwalek = {
         "work_experience": {
             "Shieldia.net": {
                 "role": "Co-Founder / Back-end Developer",
-                "working_since": "March 2020 - Now"
+                "timespan": "March 2020 - Now"
             },
             "upmedic.io": {
                 "role": "Ontology Developer Intern",
-                "working_since": "January 2024 - Now"
+                "timespan": "January 2024 - Now"
             }
         }
     },
