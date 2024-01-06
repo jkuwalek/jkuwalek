@@ -2,7 +2,7 @@
 
 <div>
 <h3 style="padding-top: 30px; margin-top: 30px;"> Let me give you a brief intuition about me</h3>
-<p style="padding-top: 10px;">I am a passionate enthusiast about technology and cybersecurity. Currently immersed in the world of AI, I am exploring the intersection of machine learning and cybersecurity, aiming to contribute innovative solutions in this field. My academic journey is not just about gaining knowledge but about challenging the norms and thinking out of the box.</p>
+<p style="padding-top: 10px;">Currently immersed in the world of AI, I am exploring the intersection of machine learning and cybersecurity, aiming to contribute innovative solutions in this field. My academic journey is not just about gaining knowledge but about challenging the norms and thinking out of the box.</p>
 
     
 ```python
