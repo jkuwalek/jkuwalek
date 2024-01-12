@@ -16,10 +16,6 @@ jkuwalek = {
             "Shieldia.net": {
                 "role": "Co-Founder / Back-end Developer",
                 "timespan": "March 2020 - Now"
-            },
-            "upmedic.io": {
-                "role": "Ontology Developer Intern",
-                "timespan": "January 2024 - Now"
             }
         }
     },
