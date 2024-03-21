@@ -20,7 +20,7 @@ jkuwalek = {
         }
     },
     "professional_info": {
-        "code_languages": [Python, Go, JavaScript],
+        "code_languages": [Python, Java, Go, JavaScript],
         "code_tools": [Django, FastAPI],
         "interests": ["Machine Learning", "Backend development"],
     },
